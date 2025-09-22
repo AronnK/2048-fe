@@ -21,7 +21,9 @@ https://2048-fe.vercel.app/
 7. Getting Started
 8. Future Work
 
-9. 📖 About The Project  
+---
+
+1. 📖 About The Project  
    The goal was to tackle a problem with a vast state space and a need for long-term planning: the game of 2048. This isn't just about making merges; it's about learning complex spatial strategies to build high-value tiles.
 
 After extensive experimentation with over half a dozen different architectures and hundreds of thousands of training episodes, the final agent demonstrates a solid understanding of the game's core strategies.
